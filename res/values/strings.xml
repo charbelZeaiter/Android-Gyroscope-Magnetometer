@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lab5</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_question2">Question2</string>
+    <string name="title_activity_q3">Q3</string>
+    <string name="title_activity_question3">Question3</string>
+    <string name="title_activity_question4">Question4</string>
+
+</resources>
